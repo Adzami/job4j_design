@@ -1,0 +1,2 @@
+[![Build Status](https://app.travis-ci.com/Adzami/job4j_design.svg?branch=main)](https://app.travis-ci.com/Adzami/job4j_design)
+[![codecov](https://codecov.io/gh/Adzami/job4j_design/branch/main/graph/badge.svg?token=LACQT0ZEWL)](https://codecov.io/gh/Adzami/job4j_design)
